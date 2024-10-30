@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/python
 # @Time    : 2021-04-07
-# @Author  : 409162075
+# @Author  : 
 # @FileName: fofa_spider.py
 # version: 1.0.3无限抓取版
 # 04-08 增加百尾时间戳打印
